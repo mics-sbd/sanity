@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './PEO-pegasus_black.svg';
 import './App.css';
 
 function App() {
@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Pegasus Works
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/mics-sbd"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Secure By Design
         </a>
       </header>
     </div>
